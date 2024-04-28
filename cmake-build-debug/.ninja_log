@@ -1,0 +1,9 @@
+# ninja log v5
+5	80	7360217059789765	CMakeFiles/VCS___Git.dir/example2.c.obj	2f2ab1ae417b296f
+1	128	7360217060277690	CMakeFiles/VCS___Git.dir/example1.c.obj	86444d60c9c1cc76
+128	297	7360217061849497	VCS___Git.exe	b76cec695a47f6bd
+10	144	7360217339632305	CMakeFiles/VCS___Git.dir/example2.c.obj	2f2ab1ae417b296f
+4	145	7360217339652254	CMakeFiles/VCS___Git.dir/example1.c.obj	86444d60c9c1cc76
+3	76	7360217427700728	CMakeFiles/VCS___Git.dir/example1.c.obj	86444d60c9c1cc76
+7	120	7360217428136751	CMakeFiles/VCS___Git.dir/example2.c.obj	2f2ab1ae417b296f
+120	222	7360217429125744	VCS___Git.exe	b76cec695a47f6bd
